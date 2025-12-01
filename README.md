@@ -1,1 +1,2 @@
-Cool programer in rust and python
+Cool programer/ML engineer.
+Langs - rust,c,c++,python.
